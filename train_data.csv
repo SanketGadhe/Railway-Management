@@ -1,0 +1,13 @@
+Train Name,Source,Destination,Arrival Time,Destination Time,Ticket Cost,Class,Platform No
+Tilak Express,Vapi,Surat,12:00,08:00,100,First Class,2
+Shatabdi Express,Surat,Vapi,04:00,12:00,100,First Class,3
+Amravati Express,Amravati,Surat,07:15,09:15,198,First Class,1
+Punjab Mail,Punjab,Goa,23:00,10:00,690,Sleeper Class,4
+Rajdhani Express,Mumbai,Delhi,12:00,21:05,1200,1-AC,2
+Vandhe  Bharat,Ahmedabad,Mumbai,18:00,15:00,450,1-AC,3
+Virar Satal,Surat,Virar,23:00,19:00,50,General,1
+Memo,Virar,Surat,09:00,05:00,50,General,2
+Saurashtra Express,Rajkot,Kutch,20:30,11:05,298,Sleeper Class,4
+Patali-Putra Express,Dwarka,Gorakhpur,04:00,17:00,699,First Class,3
+Chatrapati Shivaji Terminal,Mumbai,Thane,08:00,07:00,65,General,5
+Mumbai local,Mumbai,Thane,12:00,09:00,65,General,5
